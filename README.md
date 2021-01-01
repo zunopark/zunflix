@@ -5,3 +5,11 @@
 - [ ] TV Shows
 - [ ] Search
 - [ ] Detail
+
+## API 구성
+- [ ] Now playing
+- [ ] Upcoming
+- [ ] Top Rated
+- [ ] Popular
+- [ ] Airing Today
+- [ ] Details
