@@ -13,3 +13,4 @@
 - [ ] Popular
 - [ ] Airing Today
 - [ ] Details
+- [ ] Search
