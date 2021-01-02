@@ -5,20 +5,20 @@ import SearchPresenter from "./SearchPresenter";
 
 export default class extends React.Component {
   state = {
-    nowPlaying: null,
-    upcoming: null,
-    popular: null,
+    movieResults: null,
+    tvResults: null,
+    searchTerm: "",
     error: null,
     loading: true,
   };
 
   render() {
-    const { nowPlaying, upcoming, popular, error, loading } = this.state;
+    const { movieResults, tvResults, searchTerm, error, loading } = this.state;
     return (
       <SearchPresenter
-        nowPlaying={nowPlaying}
-        upcoming={upcoming}
-        popular={popular}
+        movieResults={movieResults}
+        tvResults={tvResults}
+        searchTerm={searchTerm}
         error={error}
         loading={loading}
       />
