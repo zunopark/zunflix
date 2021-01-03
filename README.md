@@ -6,6 +6,7 @@
 - [ ] Search
 - [ ] Detail
 
+## Container - Presenter 패턴
 ## API 구성
 - [ ] Now playing
 - [ ] Upcoming
