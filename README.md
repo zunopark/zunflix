@@ -7,8 +7,8 @@
 - [ ] Detail
 
 ## Container - Presenter 패턴
-###Container : API Request, Exception Error, setState... ETC...
-###Presenter : only Props, UI, no logic
+### Container : API Request, Exception Error, setState... ETC...
+### Presenter : only Props, UI, no logic
 
 ## API 구성
 - [ ] Now playing
