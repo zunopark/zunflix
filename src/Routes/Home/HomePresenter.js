@@ -17,7 +17,7 @@ const HomePresenter = ({ nowPlaying, upcoming, popular, loading, error }) => {
   ) : (
     <Container>
       <Helmet>
-        <title>Movies | Zunflix</title>
+        <title>Movie | Zunflix</title>
       </Helmet>
       {nowPlaying && nowPlaying.length > 0 && (
         <Section title="Now Playing">

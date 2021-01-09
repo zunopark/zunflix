@@ -17,7 +17,7 @@ const TvPresenter = ({ topRated, popular, airingToday, loading, error }) => {
   ) : (
     <Container>
       <Helmet>
-        <title>TV Shows | Zunflix</title>
+        <title>TV | Zunflix</title>
       </Helmet>
       {topRated && topRated.length > 0 && (
         <Section title="Top Rated Shows">
